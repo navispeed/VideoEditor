@@ -1,0 +1,3 @@
+[submodule "VideoEditor-API"]
+	path = VideoEditor-API
+	url = git@github.com:navispeed/VideoEditor-API.git
