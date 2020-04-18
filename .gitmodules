@@ -1,3 +1,6 @@
 [submodule "VideoEditor-API"]
 	path = VideoEditor-API
 	url = git@github.com:navispeed/VideoEditor-API.git
+[submodule "VideoEditor-K8S"]
+	path = VideoEditor-K8S
+	url = git@github.com:navispeed/VideoEditor-K8S.git
