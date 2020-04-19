@@ -4,3 +4,6 @@
 [submodule "VideoEditor-K8S"]
 	path = VideoEditor-K8S
 	url = git@github.com:navispeed/VideoEditor-K8S.git
+[submodule "VideoEditor-SpringWeb"]
+	path = VideoEditor-SpringWeb
+	url = git@github.com:navispeed/VideoEditor-SpringWeb.git
